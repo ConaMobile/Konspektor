@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866680260807",
+    "project_id": "konspektor-97f65",
+    "storage_bucket": "konspektor-97f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866680260807:android:a511dfa9e88294a031d6e2",
+        "android_client_info": {
+          "package_name": "com.conamobile.konspektor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866680260807-h8vldk4firu4s4j108h965mmaplgmh5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9nx0JQgYyZmyaSUvZ0be269b6120DCTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866680260807-h8vldk4firu4s4j108h965mmaplgmh5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
